@@ -5,3 +5,6 @@ class Greeter
     "Hello, #{name}!"
   end
 end
+
+greeter = Greeter.new
+puts greeter.greet('Alice')
