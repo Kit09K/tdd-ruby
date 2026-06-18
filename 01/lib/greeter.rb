@@ -7,4 +7,4 @@ class Greeter
 end
 
 greeter = Greeter.new
-puts greeter.greet('Alice')
+puts greeter.greet('Kittayot')
